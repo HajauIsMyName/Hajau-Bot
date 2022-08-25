@@ -1,0 +1,1 @@
+﻿<h1>Support server: <a href="https://discord.gg/PgNcrj2vJZ">Invite</a></h1>
